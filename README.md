@@ -1,6 +1,5 @@
 # Smart Manufacturing IoT Lakehouse Platform
 
-> **Spark Wars 4.0 — Final Round Submission**
 > A governed, scalable Lakehouse platform built on Databricks for real-time IoT monitoring, predictive maintenance, and production quality tracking.
 
 ---
@@ -303,3 +302,4 @@ See [tests/test_plan.md](tests/test_plan.md) for complete test scenarios coverin
 5. Build Power BI dashboards connected to Gold layer
 6. Implement Azure Monitor integration for production alerting
 7. Add Databricks SQL warehouse for BI queries
+
