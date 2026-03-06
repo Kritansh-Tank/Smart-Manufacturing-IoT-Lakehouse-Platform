@@ -303,3 +303,8 @@ See [tests/test_plan.md](tests/test_plan.md) for complete test scenarios coverin
 6. Implement Azure Monitor integration for production alerting
 7. Add Databricks SQL warehouse for BI queries
 
+---
+
+## License
+
+MIT License - See LICENSE file for details
